@@ -1,5 +1,13 @@
 # 🎯 Referral Dashboard - Complete Setup Guide
+## 📸 Screenshots
+### Login Page
+![Login](./assets/login.png)
 
+### Dashboard
+![Dashboard](./assets/dashboard.png)
+
+### Signup Page
+![Signup](./assets/signup.png)
 ## 📋 Features Included
 
 ✅ **Frontend (React)**
@@ -171,3 +179,4 @@ The application is ready for deployment on platforms like:
 - **Database**: MongoDB Atlas (already configured)
 
 Remember to update environment variables and API endpoints for production!
+
